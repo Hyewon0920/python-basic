@@ -38,7 +38,7 @@
 
 [1. print함수 연습](https://github.com/Hyewon0920/python-basic/blob/main/python_basic/2.%20%EC%A0%95%EB%A6%AC%EA%B3%BC%EC%A0%9C_print%ED%95%A8%EC%88%98%20%EC%97%B0%EC%8A%B5)
 
-[2. radom 함수 써보기]()(https://github.com/Hyewon0920/python-basic/blob/main/python_basic/3.%20%EC%A0%95%EB%A6%AC%EA%B3%BC%EC%A0%9C_random)
+[2. radom 함수 써보기](https://github.com/Hyewon0920/python-basic/blob/main/python_basic/3.%20%EC%A0%95%EB%A6%AC%EA%B3%BC%EC%A0%9C_random)
 
 [3. 조건에 맞는 비밀번호 찾기(조건문 관련 예제)](https://github.com/Hyewon0920/python-basic/blob/main/python_basic/4.%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20password%EC%B0%BE%EA%B8%B0)
 
